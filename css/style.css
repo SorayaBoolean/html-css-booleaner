@@ -9,3 +9,14 @@ header {
     height: ;
 }
 
+#signature {
+    color: #339FFF ;
+}
+
+.almostblack {
+    color: rgb(149, 153, 153);
+}
+
+#date {
+    font-size: 10px;
+}
