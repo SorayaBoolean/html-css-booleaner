@@ -4,6 +4,11 @@ header {
     background-image: ../img/pattern.png;
 }
 
+body {
+    width: 75%;
+    margin: auto;
+}
+
 #logos {
     width: 15%;
     height: ;
@@ -19,4 +24,13 @@ header {
 
 #date {
     font-size: 10px;
+}
+
+#description {
+    font-size: 9px;
+    
+}
+
+.evidenziatore {
+    background-color:#FFFF33;
 }
