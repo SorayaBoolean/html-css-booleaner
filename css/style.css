@@ -1,7 +1,8 @@
 header {
-
+    height: 100px;
+    background-size: contain;
     background-color:#339FFF;
-    background-image: ../img/pattern.png;
+    background-image: url(../img/pattern.png);
 }
 
 body {
@@ -41,4 +42,22 @@ thead {
 
  table .starred {
     background-color: #b8daf8;
+}
+
+#firstimg h3{
+    display: block;
+    width: 350px ;
+    height: 280px ;
+    color: rgb(255, 255, 255);
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+}
+
+#secondimg h3{
+    display: block;
+    width: 350px ;
+    height: 280px ;
+    color: rgb(255, 255, 255);
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
 }
