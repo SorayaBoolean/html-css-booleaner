@@ -34,3 +34,11 @@ body {
 .evidenziatore {
     background-color:#FFFF33;
 }
+
+thead {
+    background-color: #339FFF;
+}
+
+ table .starred {
+    background-color: #b8daf8;
+}
